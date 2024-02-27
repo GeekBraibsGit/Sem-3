@@ -2,10 +2,11 @@
 
 
 
-Sergei Bandurko
-
-Vitaly Nosov
+Sergei Bandurko     Bandurko
 
 
-# Артём Зуев
+Vitaly Nosov        VitalyNosov7
+
+
+# Артём Зуев        c3k00
 
